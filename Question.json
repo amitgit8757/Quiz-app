@@ -1,0 +1,29 @@
+[
+    {
+        "question": "What is the capital of china?",
+        "answers": [
+            {"text": "Berlin", "correct": false},
+            {"text": "Madrid", "correct": false},
+            {"text": "Beijing", "correct": true},
+            {"text": "Lisbon", "correct": false}
+        ]
+    },
+    {
+        "question": "Which planet is known as the blue Planet?",
+        "answers": [
+            {"text": "Earth", "correct": true},
+            {"text": "Mars", "correct": false},
+            {"text": "Jupiter", "correct": false},
+            {"text": "Saturn", "correct": false}
+        ]
+    },
+    {
+        "question": "Who wrote 'Godan'?",
+        "answers": [
+            {"text": "Charles Dickens", "correct": false},
+            {"text": "Prem chand", "correct": true},
+            {"text": "Leo Tolstoy", "correct": false},
+            {"text": "Mark Twain", "correct": false}
+        ]
+    }
+]
